@@ -1,1 +1,2 @@
-# Code-1-
+# Calculator program
+This is a simple calculator program in C
